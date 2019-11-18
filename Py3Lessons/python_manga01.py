@@ -9,7 +9,7 @@ print ("I have {x} manga volumes!".format (x = s*v // l))
 x = s*v // l
 
 if (x > 100):
-    print ("I'm a goddamn nerd.")
+    print ("I'm such a nerd.")
 else:
     print ("I haven't reached my true potential...")
     
