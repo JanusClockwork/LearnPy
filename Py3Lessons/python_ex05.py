@@ -3,7 +3,7 @@ age = 26
 height = 65 #inches. Also, why is height spelled like that. I before E except after C? My ass.
 weight = 114 #lbs. also I AM GROWIIINNNG
 eyes = 'gray' #'Murrican spelling
-teeth = 'fucked up'
+teeth = 'messed up'
 hair = 'brown'
 
 favePet = 'cats'
